@@ -1,2 +1,4 @@
 /async/server/node_modules/
 /async/server/bigfile.txt
+
+/be/*/node_modules/
